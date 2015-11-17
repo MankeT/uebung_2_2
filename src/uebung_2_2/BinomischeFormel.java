@@ -9,7 +9,7 @@ public class BinomischeFormel {
 		
 		double binomi = (a+b)*(a+b);
 		
-		System.out.println("Lösung für erste Binomische Formel für a = " + a + " für b = " + b + " ist " + binomi + ".");
+		System.out.println("LÃ¶sung fÃ¼r erste Binomische Formel fÃ¼r a = " + a + " fÃ¼r b = " + b + " ist " + binomi + ".");
 
 	}
 
